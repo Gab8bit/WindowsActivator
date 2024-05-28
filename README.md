@@ -28,6 +28,8 @@ The editions you can choose are:
 ### It tells me “Windows has blocked this app”
 Windows prefers to block by default the execution of programs with unknown author downloaded from the internet. You can click on “Run anyway”.
 
+### You can download it in the Release section (https://github.com/Gab8bit/WindowsActivator/releases/tag/english)
+
 ------------------------------------------------------------------
 
 ## Sezione in Italiano
@@ -58,3 +60,5 @@ Le edizioni che puoi scegliere sono:
 
 ### Mi dice "Windows ha bloccato l'esecuzione di quest'app"
 Windows preferisce bloccare di default l'esecuzione di programmi con autore sconosciuto scaricati da internet. Puoi stare tranquillo e premere su "Esegui comunque".
+
+### Trovi il file EXE nella sezione "Release" (https://github.com/Gab8bit/WindowsActivator/releases/tag/italian)
